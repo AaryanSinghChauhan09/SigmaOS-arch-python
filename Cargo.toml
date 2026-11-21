@@ -1,10 +1,10 @@
 [package]
-name = "arch-python"
+name = "sigmaos-python"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-python component - SigmaOS component"
+description = "SigmaOS SigmaOS-python component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-python"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-python"
 
 [dependencies]
 thiserror = "2"

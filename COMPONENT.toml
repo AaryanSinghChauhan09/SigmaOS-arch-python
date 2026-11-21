@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-python"
+name = "SigmaOS-python"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-python component"
+description = "SigmaOS SigmaOS-python component"
 upstream = []
 
 [contract]

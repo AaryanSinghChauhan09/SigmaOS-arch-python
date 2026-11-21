@@ -1,4 +1,4 @@
-use arch_python::Component;
+use sigmaos_python::Component;
 
 #[test]
 fn test_component_new_aaa() {

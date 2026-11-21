@@ -1,6 +1,6 @@
-# SigmaOS-arch-python
+# SigmaOS-python
 
-SigmaOS SigmaOS-arch-python component
+SigmaOS SigmaOS-python component
 
 - **Category:** Components
 - **Engine:** component
